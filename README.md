@@ -56,7 +56,12 @@ Each subtree includes the node itself and all of its descendants. The average is
 
 ## 👨‍💻 Author
 
-**@ChatGPT (OpenAI)**  
+Ridham Garg
+
+Thapar Institute of Engineering and Technology
+
+Patiala
+
 This code and documentation were prepared with attention to clarity, structure, and performance, suitable for technical interviews or learning advanced tree traversal techniques.
 
 ---
