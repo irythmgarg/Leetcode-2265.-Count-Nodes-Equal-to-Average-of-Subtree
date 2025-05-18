@@ -55,9 +55,7 @@ Each subtree includes the node itself and all of its descendants. The average is
 ---
 
 ## 👨‍💻 Author
-
 Ridham Garg
-
 Thapar Institute of Engineering and Technology
 
 Patiala
